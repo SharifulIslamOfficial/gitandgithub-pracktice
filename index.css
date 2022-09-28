@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    color: yellow;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: wheat;
+}
+h4,h5,h6{
+    color: red;
+}
+p{  border-radius: 20px;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}
